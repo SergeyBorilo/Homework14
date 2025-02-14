@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LgBaTc5GJ0w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BARYA\\Documents\\Books\\5Layers.Animals (1)\\5Layers.Animals\\src\\Animals.Core\\Animals.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BARYA\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\BARYA\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\BARYA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

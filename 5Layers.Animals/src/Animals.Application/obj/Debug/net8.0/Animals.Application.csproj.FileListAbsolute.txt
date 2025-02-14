@@ -1,0 +1,15 @@
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\bin\Debug\net8.0\Animals.Application.deps.json
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\bin\Debug\net8.0\Animals.Application.dll
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\bin\Debug\net8.0\Animals.Application.pdb
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\bin\Debug\net8.0\Animals.Core.dll
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\bin\Debug\net8.0\Animals.Core.pdb
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\obj\Debug\net8.0\Animals.Application.csproj.AssemblyReference.cache
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\obj\Debug\net8.0\Animals.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\obj\Debug\net8.0\Animals.Application.AssemblyInfoInputs.cache
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\obj\Debug\net8.0\Animals.Application.AssemblyInfo.cs
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\obj\Debug\net8.0\Animals.Application.csproj.CoreCompileInputs.cache
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\obj\Debug\net8.0\Animals..8DD9EAD4.Up2Date
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\obj\Debug\net8.0\Animals.Application.dll
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\obj\Debug\net8.0\refint\Animals.Application.dll
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\obj\Debug\net8.0\Animals.Application.pdb
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\Animals.Application\obj\Debug\net8.0\ref\Animals.Application.dll

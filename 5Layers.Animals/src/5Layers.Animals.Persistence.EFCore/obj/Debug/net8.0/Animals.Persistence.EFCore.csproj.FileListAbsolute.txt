@@ -1,0 +1,15 @@
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\bin\Debug\net8.0\Animals.Persistence.EFCore.deps.json
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\bin\Debug\net8.0\Animals.Persistence.EFCore.dll
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\bin\Debug\net8.0\Animals.Persistence.EFCore.pdb
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\bin\Debug\net8.0\Animals.Core.dll
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\bin\Debug\net8.0\Animals.Core.pdb
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\obj\Debug\net8.0\Animals.Persistence.EFCore.csproj.AssemblyReference.cache
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\obj\Debug\net8.0\Animals.Persistence.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\obj\Debug\net8.0\Animals.Persistence.EFCore.AssemblyInfoInputs.cache
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\obj\Debug\net8.0\Animals.Persistence.EFCore.AssemblyInfo.cs
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\obj\Debug\net8.0\Animals.Persistence.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\obj\Debug\net8.0\Animals..2EEB9CAA.Up2Date
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\obj\Debug\net8.0\Animals.Persistence.EFCore.dll
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\obj\Debug\net8.0\refint\Animals.Persistence.EFCore.dll
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\obj\Debug\net8.0\Animals.Persistence.EFCore.pdb
+C:\Users\BARYA\Documents\Books\5Layers.Animals (1)\5Layers.Animals\src\5Layers.Animals.Persistence.EFCore\obj\Debug\net8.0\ref\Animals.Persistence.EFCore.dll
